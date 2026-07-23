@@ -36,10 +36,17 @@
 ---
 
 ### 📊 Estadísticas
-
+ 
 ![Estadísticas de GitHub de Itzel](https://github-stats-extended.vercel.app/api?username=ItzelOrtix&show_icons=true&theme=default&hide_border=true)
 ![Lenguajes más usados](https://github-stats-extended.vercel.app/api/top-langs/?username=ItzelOrtix&layout=compact&hide_border=true)
-
+ 
+---
+ 
+### 📈 Actividad
+ 
+![Gráfico de actividad de Itzel](https://github-readme-activity-graph.vercel.app/graph?username=ItzelOrtix&theme=github&hide_border=true)
+ 
+---
 ---
 
 ### 📫 Contacto
