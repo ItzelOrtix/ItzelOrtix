@@ -44,8 +44,7 @@
  
 ### 📈 Actividad
  
-![Gráfico de actividad de Itzel](https://github-readme-activity-graph.vercel.app/graph?username=ItzelOrtix&theme=github&hide_border=true)
- 
+![Visitas al perfil](https://komarev.com/ghpvc/?username=ItzelOrtix&label=Visitas+al+perfil&color=blueviolet&style=flat) 
 ---
 ---
 
