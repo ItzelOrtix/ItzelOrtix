@@ -1,6 +1,6 @@
 <div align="center">
 
-# ¡Hola! Soy Itzel Ortiz 👋 | Hi! I'm Itzel Ortiz 👋 | 你好！我是 Itzel Ortiz 👋
+# ¡Hola! Soy Itzel Ortiz 👋 | Hi! I'm Itzel Ortiz 👋 | 你好！我是 Itzel Ortiz 
 
 </div>
 
