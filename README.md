@@ -4,10 +4,11 @@
 
 </div>
 
-💻 Ingeniera en Sistemas Computacionales | Systems Engineer | 计算机系统工程师
-🚀 Desarrolladora Web Fullstack | Interés en Análisis de Datos — Fullstack Web Developer | Interested in Data Analysis — 全栈网页开发者 | 对数据分析感兴趣
-📍 Oaxaca, México | Oaxaca, Mexico | 墨西哥瓦哈卡
+🇪🇸 💻 Ingeniera en Sistemas Computacionales 🚀 Desarrolladora Web Fullstack | Interés en Análisis de Datos 📍 Oaxaca, México
 
+🇬🇧 💻 Systems Engineer 🚀 Fullstack Web Developer | Interested in Data Analysis 📍 Oaxaca, Mexico
+
+🇨🇳 💻 计算机系统工程师 🚀 全栈网页开发者 | 对数据分析感兴趣 📍 墨西哥瓦哈卡
 ---
 
 ### 🛠️ Stack
