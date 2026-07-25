@@ -25,7 +25,7 @@
 <td align="center"><img src="https://cdn.simpleicons.org/bootstrap/7952B3" width="40" height="40"/><br><sub><b>Bootstrap</b></sub></td>
 <td align="center"><img src="https://cdn.simpleicons.org/python/3776AB" width="40" height="40"/><br><sub><b>Python</b></sub></td>
 <td align="center"><img src="https://cdn.simpleicons.org/openjdk/000000" width="40" height="40"/><br><sub><b>Java</b></sub></td>
-<td align="center"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/csharp.svg" width="40" height="40"/><br><sub><b>C#</b></sub></td>
+<td align="center"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/csharp.svg" width="40" height="40"/><br><sub><b>C#</b></sub></td>
 </tr>
 <tr>
 <td align="center"><img src="https://cdn.simpleicons.org/joomla/5091CD" width="40" height="40"/><br><sub><b>Joomla</b></sub></td>
