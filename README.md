@@ -14,10 +14,19 @@
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,laravel,php,nodejs,angular,tailwind,bootstrap,py,java,cs" />
 </p>
 
+<p align="center">
+  <img src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/15.16.0/joomla.svg" width="48" height="48" style="background:#1E1E2E;padding:8px;border-radius:8px;" />
+  <img src="https://cdn2.scriptcase.com.br/lib/img/scriptcase-logo.svg" width="90" height="48" style="background:#1E1E2E;padding:8px;border-radius:8px;" />
+</p>
+
 ## Bases de datos
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,prisma,supabase" />
+</p>
+
+<p align="center">
+  <img src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/15.16.0/mariadb.svg" width="48" height="48" style="background:#1E1E2E;padding:8px;border-radius:8px;" />
 </p>
 
 ## Herramientas / Infra
@@ -26,6 +35,10 @@
   <img src="https://skillicons.dev/icons?i=docker,git,vercel,figma,postman,aws,linux" />
 </p>
 
+<p align="center">
+  <img src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/15.16.0/railway.svg" width="48" height="48" style="background:#1E1E2E;padding:8px;border-radius:8px;" />
+  <img src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/15.16.0/xampp.svg" width="48" height="48" style="background:#1E1E2E;padding:8px;border-radius:8px;" />
+</p>
 ---
 
 ### 🌟 Proyecto destacado
