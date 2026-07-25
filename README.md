@@ -25,7 +25,7 @@
 <td align="center"><img src="https://cdn.simpleicons.org/bootstrap/7952B3" width="40" height="40"/><br><sub><b>Bootstrap</b></sub></td>
 <td align="center"><img src="https://cdn.simpleicons.org/python/3776AB" width="40" height="40"/><br><sub><b>Python</b></sub></td>
 <td align="center"><img src="https://cdn.simpleicons.org/openjdk/000000" width="40" height="40"/><br><sub><b>Java</b></sub></td>
-<td align="center"><img src="https://cdn.simpleicons.org/csharp/239120" width="40" height="40"/><br><sub><b>C#</b></sub></td>
+<td align="center"><img src="[https://cdn.simpleicons.org/csharp/239120](https://worldvectorlogo.com/es/logo/c--4)" width="40" height="40"/><br><sub><b>C#</b></sub></td>
 </tr>
 <tr>
 <td align="center"><img src="https://cdn.simpleicons.org/joomla/5091CD" width="40" height="40"/><br><sub><b>Joomla</b></sub></td>
@@ -57,7 +57,7 @@
 <td align="center"><img src="https://cdn.simpleicons.org/vercel/000000" width="40" height="40"/><br><sub><b>Vercel</b></sub></td>
 <td align="center"><img src="https://cdn.simpleicons.org/figma/F24E1E" width="40" height="40"/><br><sub><b>Figma</b></sub></td>
 <td align="center"><img src="https://cdn.simpleicons.org/postman/FF6C37" width="40" height="40"/><br><sub><b>Postman</b></sub></td>
-<td align="center"><img src="https://cdn.simpleicons.org/amazonaws/232F3E" width="40" height="40"/><br><sub><b>AWS</b></sub></td>
+<td align="center"><img src="[https://cdn.simpleicons.org/amazonaws/232F3E](https://seeklogo.com/vector-logo/319188/amazon-web-services-aws)" width="40" height="40"/><br><sub><b>AWS</b></sub></td>
 <td align="center"><img src="https://cdn.simpleicons.org/linux/FCC624" width="40" height="40"/><br><sub><b>Linux</b></sub></td>
 <td align="center"><img src="https://cdn.simpleicons.org/xampp/FB7A24" width="40" height="40"/><br><sub><b>XAMPP</b></sub></td>
 </tr>
