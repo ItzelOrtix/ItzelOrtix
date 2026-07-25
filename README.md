@@ -8,24 +8,17 @@
 
 ### 🛠️ Stack
 
-**Frontend / Backend**
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+Frontend / Backend
 
-**Bases de datos**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+<img src="https://cdn.simpleicons.org/react/61DAFB" width="40" height="40" alt="React"/> <img src="https://cdn.simpleicons.org/nextdotjs/000000" width="40" height="40" alt="Next.js"/> <img src="https://cdn.simpleicons.org/typescript/3178C6" width="40" height="40" alt="TypeScript"/> <img src="https://cdn.simpleicons.org/laravel/FF2D20" width="40" height="40" alt="Laravel"/> <img src="https://cdn.simpleicons.org/php/777BB4" width="40" height="40" alt="PHP"/> <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="40" height="40" alt="Node.js"/>
 
-**Herramientas / Infra**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white)
+Bases de datos
+
+<img src="https://cdn.simpleicons.org/postgresql/4169E1" width="40" height="40" alt="PostgreSQL"/> <img src="https://cdn.simpleicons.org/mysql/4479A1" width="40" height="40" alt="MySQL"/> <img src="https://cdn.simpleicons.org/prisma/2D3748" width="40" height="40" alt="Prisma"/> <img src="https://cdn.simpleicons.org/supabase/3ECF8E" width="40" height="40" alt="Supabase"/>
+
+Herramientas / Infra
+
+<img src="https://cdn.simpleicons.org/docker/2496ED" width="40" height="40" alt="Docker"/> <img src="https://cdn.simpleicons.org/git/F05032" width="40" height="40" alt="Git"/> <img src="https://cdn.simpleicons.org/railway/0B0D0E" width="40" height="40" alt="Railway"/>
 
 ---
 
