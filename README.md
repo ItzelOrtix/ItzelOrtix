@@ -8,17 +8,60 @@
 
 ### 🛠️ Stack
 
-Frontend / Backend
+## Frontend / Backend
 
-<img src="https://cdn.simpleicons.org/react/61DAFB" width="40" height="40" alt="React"/> <img src="https://cdn.simpleicons.org/nextdotjs/000000" width="40" height="40" alt="Next.js"/> <img src="https://cdn.simpleicons.org/typescript/3178C6" width="40" height="40" alt="TypeScript"/> <img src="https://cdn.simpleicons.org/laravel/FF2D20" width="40" height="40" alt="Laravel"/> <img src="https://cdn.simpleicons.org/php/777BB4" width="40" height="40" alt="PHP"/> <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="40" height="40" alt="Node.js"/>
+<table>
+<tr>
+<td align="center"><img src="https://cdn.simpleicons.org/react/61DAFB" width="40" height="40"/><br><sub><b>React</b></sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/nextdotjs/000000" width="40" height="40"/><br><sub><b>Next.js</b></sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/typescript/3178C6" width="40" height="40"/><br><sub><b>TypeScript</b></sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/laravel/FF2D20" width="40" height="40"/><br><sub><b>Laravel</b></sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/php/777BB4" width="40" height="40"/><br><sub><b>PHP</b></sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/nodedotjs/339933" width="40" height="40"/><br><sub><b>Node.js</b></sub></td>
+</tr>
+<tr>
+<td align="center"><img src="https://cdn.simpleicons.org/angular/DD0031" width="40" height="40"/><br><sub><b>Angular</b></sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="40" height="40"/><br><sub><b>TailwindCSS</b></sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/bootstrap/7952B3" width="40" height="40"/><br><sub><b>Bootstrap</b></sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/python/3776AB" width="40" height="40"/><br><sub><b>Python</b></sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/openjdk/000000" width="40" height="40"/><br><sub><b>Java</b></sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/csharp/239120" width="40" height="40"/><br><sub><b>C#</b></sub></td>
+</tr>
+<tr>
+<td align="center"><img src="https://cdn.simpleicons.org/joomla/5091CD" width="40" height="40"/><br><sub><b>Joomla</b></sub></td>
+<td align="center"><img src="https://cdn2.scriptcase.com.br/lib/img/scriptcase-logo.svg" width="90" height="40"/><br><sub><b>Scriptcase</b></sub></td>
+</tr>
+</table>
 
-Bases de datos
+## Bases de datos
 
-<img src="https://cdn.simpleicons.org/postgresql/4169E1" width="40" height="40" alt="PostgreSQL"/> <img src="https://cdn.simpleicons.org/mysql/4479A1" width="40" height="40" alt="MySQL"/> <img src="https://cdn.simpleicons.org/prisma/2D3748" width="40" height="40" alt="Prisma"/> <img src="https://cdn.simpleicons.org/supabase/3ECF8E" width="40" height="40" alt="Supabase"/>
+<table>
+<tr>
+<td align="center"><img src="https://cdn.simpleicons.org/postgresql/4169E1" width="40" height="40"/><br><sub><b>PostgreSQL</b></sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/mysql/4479A1" width="40" height="40"/><br><sub><b>MySQL</b></sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/mariadb/003545" width="40" height="40"/><br><sub><b>MariaDB</b></sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/mongodb/47A248" width="40" height="40"/><br><sub><b>MongoDB</b></sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/sqlite/003B57" width="40" height="40"/><br><sub><b>SQLite</b></sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/prisma/2D3748" width="40" height="40"/><br><sub><b>Prisma</b></sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/supabase/3ECF8E" width="40" height="40"/><br><sub><b>Supabase</b></sub></td>
+</tr>
+</table>
 
-Herramientas / Infra
+## Herramientas / Infra
 
-<img src="https://cdn.simpleicons.org/docker/2496ED" width="40" height="40" alt="Docker"/> <img src="https://cdn.simpleicons.org/git/F05032" width="40" height="40" alt="Git"/> <img src="https://cdn.simpleicons.org/railway/0B0D0E" width="40" height="40" alt="Railway"/>
+<table>
+<tr>
+<td align="center"><img src="https://cdn.simpleicons.org/docker/2496ED" width="40" height="40"/><br><sub><b>Docker</b></sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/git/F05032" width="40" height="40"/><br><sub><b>Git</b></sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/railway/0B0D0E" width="40" height="40"/><br><sub><b>Railway</b></sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/vercel/000000" width="40" height="40"/><br><sub><b>Vercel</b></sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/figma/F24E1E" width="40" height="40"/><br><sub><b>Figma</b></sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/postman/FF6C37" width="40" height="40"/><br><sub><b>Postman</b></sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/amazonaws/232F3E" width="40" height="40"/><br><sub><b>AWS</b></sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/linux/FCC624" width="40" height="40"/><br><sub><b>Linux</b></sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/xampp/FB7A24" width="40" height="40"/><br><sub><b>XAMPP</b></sub></td>
+</tr>
+</table>
 
 ---
 
