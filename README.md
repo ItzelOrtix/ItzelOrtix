@@ -57,7 +57,7 @@
 <td align="center"><img src="https://cdn.simpleicons.org/vercel/000000" width="40" height="40"/><br><sub><b>Vercel</b></sub></td>
 <td align="center"><img src="https://cdn.simpleicons.org/figma/F24E1E" width="40" height="40"/><br><sub><b>Figma</b></sub></td>
 <td align="center"><img src="https://cdn.simpleicons.org/postman/FF6C37" width="40" height="40"/><br><sub><b>Postman</b></sub></td>
-<td align="center"><img src="[https://cdn.simpleicons.org/amazonaws/232F3E](https://seeklogo.com/vector-logo/319188/amazon-web-services-aws)" width="40" height="40"/><br><sub><b>AWS</b></sub></td>
+<td align="center"><img src="https://cdn.simpleicons.org/amazonwebservices/232F3E" width="40" height="40"/><br><sub><b>AWS</b></sub></td>
 <td align="center"><img src="https://cdn.simpleicons.org/linux/FCC624" width="40" height="40"/><br><sub><b>Linux</b></sub></td>
 <td align="center"><img src="https://cdn.simpleicons.org/xampp/FB7A24" width="40" height="40"/><br><sub><b>XAMPP</b></sub></td>
 </tr>
