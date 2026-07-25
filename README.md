@@ -15,8 +15,9 @@
 </p>
 
 <p align="center">
-  <img src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/15.16.0/joomla.svg" width="48" height="48" style="background:#1E1E2E;padding:8px;border-radius:8px;" />
-  <img src="https://cdn2.scriptcase.com.br/lib/img/scriptcase-logo.svg" width="90" height="48" style="background:#1E1E2E;padding:8px;border-radius:8px;" />
+  <img src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/15.16.0/joomla.svg" width="45" height="45" />
+  &nbsp;&nbsp;
+  <img src="https://cdn2.scriptcase.com.br/lib/img/scriptcase-logo.svg" width="90" height="45" />
 </p>
 
 ## Bases de datos
@@ -26,7 +27,7 @@
 </p>
 
 <p align="center">
-  <img src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/15.16.0/mariadb.svg" width="48" height="48" style="background:#1E1E2E;padding:8px;border-radius:8px;" />
+  <img src="https://servala.com/media/image_library/mariadb.png" width="45" height="45" />
 </p>
 
 ## Herramientas / Infra
@@ -36,11 +37,10 @@
 </p>
 
 <p align="center">
-  <img src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/15.16.0/railway.svg" width="48" height="48" style="background:#1E1E2E;padding:8px;border-radius:8px;" />
-  <img src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/15.16.0/xampp.svg" width="48" height="48" style="background:#1E1E2E;padding:8px;border-radius:8px;" />
+  <img src="https://shop.railway.app/cdn/shop/files/railway_300x300.png?v=1622657842" width="45" height="45" />
+  &nbsp;&nbsp;
+  <img src="https://www.reormadrid.com/wp-content/uploads/2025/02/logo-xampp.jpg" width="60" height="45" />
 </p>
----
-
 ### 🌟 Proyecto destacado
 
 **[Xitro](https://github.com/ItzelOrtix/Xitro)** — Aplicación de control de finanzas personales con categorización de movimientos y exportación de reportes. Desplegada en producción sobre **Railway** con **PostgreSQL**.
