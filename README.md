@@ -32,9 +32,6 @@
 <img src="./tech-stack-orbit.svg" width="100%" />
 </div>
 
-> 🇪🇸 *Diagrama animado — se genera al cargar la página. Requiere subir `tech-stack-orbit.svg` a la raíz de este repo.*
-> 🇬🇧 *Animated diagram — plays on page load. Requires uploading `tech-stack-orbit.svg` to this repo's root.*
-
 <br/>
 
 ## 🌟 Proyecto destacado &nbsp;|&nbsp; Featured Project &nbsp;|&nbsp; 代表项目
