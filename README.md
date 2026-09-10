@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Itzel%20Ortiz&fontSize=50&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Fullstack%20Developer%20%7C%20Data%20Enthusiast&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6E1E33,8C2C44,3E0F1D&height=200&section=header&text=Itzel%20Ortiz&fontSize=50&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Fullstack%20Developer%20%7C%20Data%20Enthusiast&descAlignY=55&descAlign=50" width="100%"/>
 
 <a href="https://mx.linkedin.com/in/itzel-guadalupe-ortiz-barroso-40654028a">
-  <img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=500&size=22&duration=3000&pause=1000&color=6C5CE7&center=true&vCenter=true&width=600&lines=Ingeniera+en+Sistemas+Computacionales;Systems+Engineer;计算机系统工程师;Desarrolladora+Web+Fullstack;Fullstack+Web+Developer;全栈网页开发者" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=500&size=22&duration=3000&pause=1000&color=8C2C44&center=true&vCenter=true&width=600&lines=Ingeniera+en+Sistemas+Computacionales;Systems+Engineer;计算机系统工程师;Desarrolladora+Web+Fullstack;Fullstack+Web+Developer;全栈网页开发者" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/-Oaxaca%2C%20M%C3%A9xico-6C5CE7?style=flat-square&logo=googlemaps&logoColor=white" />
-<img src="https://img.shields.io/badge/-Data%20Analysis-FDCB6E?style=flat-square&logo=googleanalytics&logoColor=white" />
-<img src="https://img.shields.io/badge/-Open%20to%20Work-00B894?style=flat-square&logo=checkmarx&logoColor=white" />
+<img src="https://img.shields.io/badge/-Oaxaca%2C%20M%C3%A9xico-6E1E33?style=flat-square&logo=googlemaps&logoColor=white" />
+<img src="https://img.shields.io/badge/-Data%20Analysis-8C2C44?style=flat-square&logo=googleanalytics&logoColor=white" />
+<img src="https://img.shields.io/badge/-Open%20to%20Work-4A1023?style=flat-square&logo=checkmarx&logoColor=white" />
 
 </div>
 
@@ -26,7 +26,7 @@
 
 <br/>
 
-## 🛠️ Stack
+<br/>
 
 <div align="center">
 <img src="./tech-stack-orbit.svg" width="100%" />
@@ -41,9 +41,9 @@
 <td width="100%">
 
 ### [Xitro](https://github.com/ItzelOrtix/Xitro)
-<img src="https://img.shields.io/badge/-Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" />
-<img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/-Production-00B894?style=flat-square" />
+<img src="https://img.shields.io/badge/-Railway-6E1E33?style=flat-square&logo=railway&logoColor=white" />
+<img src="https://img.shields.io/badge/-PostgreSQL-8C2C44?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/-Production-4A1023?style=flat-square" />
 
 🇪🇸 Aplicación de control de finanzas personales con categorización de movimientos y exportación de reportes. Desplegada en producción sobre **Railway** con **PostgreSQL**.
 
@@ -77,7 +77,7 @@
 ## 📈 Visitas &nbsp;|&nbsp; Visits &nbsp;|&nbsp; 访问量
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=ItzelOrtix&label=Visitas%20al%20perfil&color=6C5CE7&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=ItzelOrtix&label=Visitas%20al%20perfil&color=6E1E33&style=for-the-badge" />
 </div>
 
 <br/>
@@ -86,13 +86,13 @@
 
 <div align="center">
 <a href="https://mx.linkedin.com/in/itzel-guadalupe-ortiz-barroso-40654028a">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-6E1E33?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/ItzelOrtix">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-3E0F1D?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6E1E33,8C2C44,3E0F1D&height=100&section=footer" width="100%"/>
