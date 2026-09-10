@@ -8,21 +8,19 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/-Oaxaca%2C%20M%C3%A9xico-6E1E33?style=flat-square&logo=googlemaps&logoColor=white" />
-<img src="https://img.shields.io/badge/-Data%20Analysis-8C2C44?style=flat-square&logo=googleanalytics&logoColor=white" />
-<img src="https://img.shields.io/badge/-Open%20to%20Work-4A1023?style=flat-square&logo=checkmarx&logoColor=white" />
+<img src="./intro-badges.svg" />
 
 </div>
 
 <br/>
 
-## 🇪🇸 Sobre mí &nbsp;|&nbsp; 🇬🇧 About me &nbsp;|&nbsp; 🇨🇳 关于我
+## <img src="./icon-about.svg" width="20" style="vertical-align:middle"/> Sobre mí &nbsp;|&nbsp; About me &nbsp;|&nbsp; 关于我
 
-🇪🇸 Ingeniera en Sistemas Computacionales apasionada por el desarrollo web fullstack, con un interés creciente en el análisis de datos. Me gusta construir productos limpios, funcionales y bien pensados de principio a fin.
+<img src="./icon-es.svg" width="26" style="vertical-align:middle"/> Ingeniera en Sistemas Computacionales apasionada por el desarrollo web fullstack, con un interés creciente en el análisis de datos. Me gusta construir productos limpios, funcionales y bien pensados de principio a fin.
 
-🇬🇧 Systems Engineer passionate about fullstack web development, with a growing interest in data analysis. I enjoy building clean, functional, and well thought-out products end to end.
+<img src="./icon-en.svg" width="26" style="vertical-align:middle"/> Systems Engineer passionate about fullstack web development, with a growing interest in data analysis. I enjoy building clean, functional, and well thought-out products end to end.
 
-🇨🇳 计算机系统工程师，热衷于全栈网页开发，并对数据分析越来越感兴趣。喜欢从头到尾打造简洁、实用、经过深思熟虑的产品。
+<img src="./icon-zh.svg" width="26" style="vertical-align:middle"/> 计算机系统工程师，热衷于全栈网页开发，并对数据分析越来越感兴趣。喜欢从头到尾打造简洁、实用、经过深思熟虑的产品。
 
 <br/>
 
@@ -34,22 +32,20 @@
 
 <br/>
 
-## 🌟 Proyecto destacado &nbsp;|&nbsp; Featured Project &nbsp;|&nbsp; 代表项目
+## <img src="./icon-star.svg" width="20" style="vertical-align:middle"/> Proyecto destacado &nbsp;|&nbsp; Featured Project &nbsp;|&nbsp; 代表项目
 
 <table>
 <tr>
 <td width="100%">
 
 ### [Xitro](https://github.com/ItzelOrtix/Xitro)
-<img src="https://img.shields.io/badge/-Railway-6E1E33?style=flat-square&logo=railway&logoColor=white" />
-<img src="https://img.shields.io/badge/-PostgreSQL-8C2C44?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/-Production-4A1023?style=flat-square" />
+<img src="./project-tags.svg" />
 
-🇪🇸 Aplicación de control de finanzas personales con categorización de movimientos y exportación de reportes. Desplegada en producción sobre **Railway** con **PostgreSQL**.
+<img src="./icon-es.svg" width="26" style="vertical-align:middle"/> Aplicación de control de finanzas personales con categorización de movimientos y exportación de reportes. Desplegada en producción sobre **Railway** con **PostgreSQL**.
 
-🇬🇧 Personal finance management app with transaction categorization and report exports. Deployed in production on **Railway** with **PostgreSQL**.
+<img src="./icon-en.svg" width="26" style="vertical-align:middle"/> Personal finance management app with transaction categorization and report exports. Deployed in production on **Railway** with **PostgreSQL**.
 
-🇨🇳 个人理财管理应用，支持交易分类和报表导出，通过 **Railway** 部署并使用 **PostgreSQL** 数据库。
+<img src="./icon-zh.svg" width="26" style="vertical-align:middle"/> 个人理财管理应用，支持交易分类和报表导出，通过 **Railway** 部署并使用 **PostgreSQL** 数据库。
 
 </td>
 </tr>
@@ -57,7 +53,7 @@
 
 <br/>
 
-## 📊 Estadísticas &nbsp;|&nbsp; Statistics &nbsp;|&nbsp; 统计
+## <img src="./icon-stats.svg" width="20" style="vertical-align:middle"/> Estadísticas &nbsp;|&nbsp; Statistics &nbsp;|&nbsp; 统计
 
 <div align="center">
 <img src="https://github-stats-extended.vercel.app/api?username=ItzelOrtix&show_icons=true&theme=default&hide_border=true" width="49%" />
@@ -74,7 +70,7 @@
 
 <br/>
 
-## 📈 Visitas &nbsp;|&nbsp; Visits &nbsp;|&nbsp; 访问量
+## <img src="./icon-eye.svg" width="20" style="vertical-align:middle"/> Visitas &nbsp;|&nbsp; Visits &nbsp;|&nbsp; 访问量
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=ItzelOrtix&label=Visitas%20al%20perfil&color=6E1E33&style=for-the-badge" />
@@ -82,14 +78,14 @@
 
 <br/>
 
-## 📫 Contacto &nbsp;|&nbsp; Contact &nbsp;|&nbsp; 联系方式
+## <img src="./icon-mail.svg" width="20" style="vertical-align:middle"/> Contacto &nbsp;|&nbsp; Contact &nbsp;|&nbsp; 联系方式
 
 <div align="center">
 <a href="https://mx.linkedin.com/in/itzel-guadalupe-ortiz-barroso-40654028a">
-  <img src="https://img.shields.io/badge/LinkedIn-6E1E33?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="./button-linkedin.svg" />
 </a>
 <a href="https://github.com/ItzelOrtix">
-  <img src="https://img.shields.io/badge/GitHub-3E0F1D?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="./button-github.svg" />
 </a>
 </div>
 
