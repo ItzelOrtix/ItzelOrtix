@@ -28,33 +28,12 @@
 
 ## 🛠️ Stack
 
-**Frontend / Backend**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,laravel,php,nodejs,angular,tailwind,bootstrap,py,java,cs" />
-</p>
-<p align="center">
-  <img src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/15.16.0/joomla.svg" width="42" height="42" />
-  &nbsp;&nbsp;
-  <img src="https://cdn2.scriptcase.com.br/lib/img/scriptcase-logo.svg" width="84" height="42" />
-</p>
+<div align="center">
+<img src="./tech-stack-orbit.svg" width="100%" />
+</div>
 
-**Bases de datos &nbsp;|&nbsp; Databases &nbsp;|&nbsp; 数据库**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,prisma,supabase" />
-</p>
-<p align="center">
-  <img src="https://servala.com/media/image_library/mariadb.png" width="42" height="42" />
-</p>
-
-**Herramientas / Infra &nbsp;|&nbsp; Tools / Infra &nbsp;|&nbsp; 工具 / 基础设施**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,vercel,figma,postman,aws,linux" />
-</p>
-<p align="center">
-  <img src="https://shop.railway.app/cdn/shop/files/railway_300x300.png?v=1622657842" width="42" height="42" />
-  &nbsp;&nbsp;
-  <img src="https://www.reormadrid.com/wp-content/uploads/2025/02/logo-xampp.jpg" width="56" height="42" />
-</p>
+> 🇪🇸 *Diagrama animado — se genera al cargar la página. Requiere subir `tech-stack-orbit.svg` a la raíz de este repo.*
+> 🇬🇧 *Animated diagram — plays on page load. Requires uploading `tech-stack-orbit.svg` to this repo's root.*
 
 <br/>
 
@@ -98,17 +77,6 @@
 
 <br/>
 
-## 🐍 Actividad de contribuciones &nbsp;|&nbsp; Contribution Snake &nbsp;|&nbsp; 贡献活动
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/ItzelOrtix/ItzelOrtix/output/github-contribution-grid-snake.svg" width="100%" />
-</div>
-
-> 🇪🇸 *Esta animación se genera automáticamente con un GitHub Action. Ver instrucciones de configuración al final de este archivo.*
-> 🇬🇧 *This animation is generated automatically via a GitHub Action. See setup instructions at the end of this file.*
-
-<br/>
-
 ## 📈 Visitas &nbsp;|&nbsp; Visits &nbsp;|&nbsp; 访问量
 
 <div align="center">
@@ -131,47 +99,3 @@
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-
----
-
-<details>
-<summary>⚙️ Cómo activar la animación de la serpiente (snake) / How to enable the snake animation</summary>
-
-<br/>
-
-1. En tu repo de perfil (`ItzelOrtix/ItzelOrtix`), crea la carpeta `.github/workflows/` y agrega el archivo `snake.yml` (te lo dejo abajo).
-2. Ve a **Settings → Actions → General → Workflow permissions** y activa **"Read and write permissions"**.
-3. Corre el workflow manualmente una vez desde la pestaña **Actions** (o espera a que corra con el cron diario).
-4. Esto creará una rama `output` con el SVG animado, que es justo el que ya está referenciado arriba en este README.
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */6 * * *"
-  workflow_dispatch:
-  push:
-    branches: [ main ]
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: ItzelOrtix
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-</details>
